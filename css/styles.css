@@ -1,0 +1,39 @@
+#result1,#result2,#result3,#result4 {
+  display: none;
+}
+
+
+#gender {
+  border: 5px blue;
+  padding: 50px;
+  background-color: lightyellow;
+  font-size: 18px
+}
+#color {
+  border: 2px blue;
+  padding: 50px;
+  background-color: lightpink;
+  font-size: 18px
+}
+#animal {
+  border: 2px blue;
+  padding: 50px;
+  background-color: lavender;
+  font-size: 18px
+}
+
+
+.well {
+
+  background-color: lightgreen;
+  /*float: left;*/
+  margin: 5px
+
+}
+h3 {
+  color: green;
+  font-size: 18px
+}
+h1 {
+  color: purple;
+}
